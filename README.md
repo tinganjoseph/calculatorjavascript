@@ -37,7 +37,7 @@ Explain briefly why you chose these technologies and how they contribute to the 
 
 These instructions will help you set up the project on your local machine for development and testing purposes. See [Deployment](#deployment) for notes on how to deploy the project on a live system.
 
-1. Clone the repository: `git remote add origin https://github.com/tinganjoseph/Todobackend.git`
+1. Clone the repository: `git remote add origin https://github.com/tinganjoseph/calculatorjavascript.git`
 2. Navigate to the project folder: `cd calculator`
 3. Open `index.html` in your preferred web browser.
 
@@ -66,3 +66,5 @@ Please ensure your pull request follows the project's code style and guidelines.
 Include the appropriate license for your project. For example:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Feel free to customize this README template to suit your specific project needs. Happy coding! 🚀
