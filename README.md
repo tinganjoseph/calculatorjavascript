@@ -37,7 +37,7 @@ Explain briefly why you chose these technologies and how they contribute to the 
 
 These instructions will help you set up the project on your local machine for development and testing purposes. See [Deployment](#deployment) for notes on how to deploy the project on a live system.
 
-1. Clone the repository: `git remote add origin https://github.com/tinganjoseph/calculatorjavascript.git`
+1. Clone the repository: `git remote add origin https://github.com/tinganjoseph/Todobackend.git`
 2. Navigate to the project folder: `cd calculator`
 3. Open `index.html` in your preferred web browser.
 
